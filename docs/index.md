@@ -1,6 +1,8 @@
 ---
 title: home
+nav_order: 1
 layout: home
+permalink: /
 ---
 
 hi uhh\
