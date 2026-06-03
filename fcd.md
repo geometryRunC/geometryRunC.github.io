@@ -3,6 +3,4 @@ title: fireclickdetector()
 layout: fireclickdetector()
 ---
 
-```lua
-fireclickdetector(ClickDetector)
-```
+<fireclickdetector(ClickDetector)>
