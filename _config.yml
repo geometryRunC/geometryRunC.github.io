@@ -1,11 +1,12 @@
 title: geos website
 description: about stuff i made
 theme: just-the-docs
-color_scheme: dark
-border_radius: 50px
-border_radius_sm: 50px
 
 url: https://just-the-docs.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+color_scheme: dark
+border_radius: 50px
+border_radius_sm: 50px
