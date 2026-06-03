@@ -8,7 +8,7 @@ heres some docs of stuff ive learned\
 soo\
 uhh\
 like some exploit stuff like fireclickdetector()\
-or lerps which that has confusing documentation on the roblox docs so um??\
+or lerps which that has confusing documentation on the roblox docs so um??
 
 ---
 title: fireclickdetector()
