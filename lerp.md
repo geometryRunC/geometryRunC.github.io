@@ -11,5 +11,6 @@ CF:Lerp(
 ```
 
 | params | returns |
-| goal   | CFrame  |
+|:-------|:--------|
+| goal   | CF      |
 | alpha  |         |
