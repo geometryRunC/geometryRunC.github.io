@@ -9,3 +9,7 @@ CF:Lerp(
     goal:CF, alpha:NUM
 )
 ```
+
+| params | returns |
+| goal   | CFrame  |
+| alpha  |         |
