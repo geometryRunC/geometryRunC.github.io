@@ -7,9 +7,9 @@ title: fireclickdetector
 fireclickdetector(ClickDetector)
 ```
 
-fires the [ClickDetector](https://create.roblox.com/docs/reference/engine/classes/ClickDetector) when in range of [MaxActivationDistance](https://create.roblox.com/docs/reference/engine/classes/ClickDetector#MaxActivationDistance).\
+fires the [ClickDetector](https://create.roblox.com/docs/reference/engine/classes/ClickDetector) when in range of [MaxActivationDistance](https://create.roblox.com/docs/reference/engine/classes/ClickDetector#MaxActivationDistance).
 
-if you want to fire every [ClickDetector](https://create.roblox.com/docs/reference/engine/classes/ClickDetector)
+if you want to fire every [ClickDetector](https://create.roblox.com/docs/reference/engine/classes/ClickDetector):
 
 - without tp
   ```luau
