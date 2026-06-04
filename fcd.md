@@ -13,7 +13,7 @@ if you want to fire every [ClickDetector](https://create.roblox.com/docs/referen
 
 - without tp
   ```luau
-  for i v in game:GetDescendants() do
+  for i,v in game:GetDescendants() do
     if v:IsA("ClickDetector") then
        fireclickdetector(v)
     end
@@ -23,7 +23,7 @@ if you want to fire every [ClickDetector](https://create.roblox.com/docs/referen
   ```luau
   local hrp = game.Players.LocalPlayer.Character.HumanoidRootPart
   local hrppos = hrp.CFrame
-  for i v in game:GetDescendants() do
+  for i,v in game:GetDescendants() do
     if v:IsA("ClickDetector") then
        fireclickdetector(v)
        hrp.CFrame = v.CFrame
