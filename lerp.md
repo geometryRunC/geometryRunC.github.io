@@ -26,3 +26,4 @@ while task.wait() do
         part.CFrame:Lerp(CFrame.new(0,5,0), 4)
      end
 end
+```
