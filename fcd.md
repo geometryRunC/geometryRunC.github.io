@@ -1,6 +1,7 @@
 ---
+layout: page
 title: fireclickdetector
-nav_order: 2
+description: hi
 ---
 
 # test to see if it works
